@@ -1,0 +1,2 @@
+# sezer
+gerekli bi bott
